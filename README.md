@@ -486,5 +486,5 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vsilivanov/).<b
 Email - v.salivan13@gmail.com
 
 Other projects: <br>
-- [Aqua.Automation (Selenium c#)](https://github.com/sylivanvv/Aqua.Playwright)<br>
+- [Aqua.Automation (Selenium c#)](https://github.com/sylivanvv/Aqua.Automation)<br>
 - [Aqua.Appium.TS](https://github.com/sylivanvv/Aqua.Appium.TS)
