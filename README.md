@@ -448,7 +448,17 @@ pwsh bin/Debug/netX.0/playwright.ps1 show-trace bin/Debug/netX.0/playwright-trac
 
 ## Allure Report
 
-![Allure Report](docs/allure-report.png)
+<details>
+<summary>Show screenshots</summary>
+
+### Full Test Run
+
+![Allure Report](docs/allureFullRun.jpg) 
+
+### Failed Test Analysis
+![Allure Failed test](docs/allureFailedTest.png)
+
+</details>
 
 ---
 
