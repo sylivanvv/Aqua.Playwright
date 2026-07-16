@@ -1,0 +1,38 @@
+{
+  "envSelected": "qa",
+  "envUrls": {
+    "qa": {
+      "qaBrainsBaseUrl": "https://practice.qabrains.com/ecommerce",
+      "learnQaBaseUrl": "https://www.learnaqa.info/",
+      "learnQaApiUrl": "https://api.learnaqa.info",
+      "dbConnectionString": "data source = ..."
+    }
+  },
+  "AuthData": {
+    "learnQaUser": {
+      "userName": "",
+      "password": ""
+    },
+    "qaBrainsUser": {
+      "userName": "",
+      "password": ""
+    }
+  },
+  "loginCookieStoragePathLearnQa": "learnQa_auth.json",
+  "loginCookieStoragePathQaBrains": "QaBrains_auth.json",
+  "testRailConfig": {
+    "enabled": false,
+    "update": false,
+    "url": "https://testrail.com/",
+    "user": "",
+    "password": "",
+    "runId": ""
+  },
+  "playwrightConfig": {
+    "browserName": "chromium",
+    "headless": false,
+    "elementWaitMs": 10000,
+    "pageLoadMs": 60000,
+    "apiTimeoutMs": 60000
+  }
+}
