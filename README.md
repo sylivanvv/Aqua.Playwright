@@ -354,7 +354,7 @@ Before running the tests, ensure the following software is installed:
 
 ```bash
 git clone https://github.com/sylivanvv/Aqua.Playwright.git
-cd Aqua.Automation
+cd Aqua.Playwright
 ```
 
 ### 2. Donwload browser binaries
